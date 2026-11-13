@@ -1,0 +1,4 @@
+interface:
+  display_name: "知识卡片"
+  short_description: "将文章提炼为 5–8 张可复习的知识卡片，只保留原文依据。"
+  default_prompt: "请使用 $make-knowledge-cards 将这篇文章提炼为严格忠于原文的知识卡片。"
